@@ -9,6 +9,10 @@ Don Pedro's inventory, this inventory allows a basic CRUD using Java/Gradle thro
 - springframework {starter-web, starter-data-jpa, starter-test}
 - mysql-connector-java: ver: 8.0.32
 
+## Diagrams
+Pending 
+
+
 ## Group Members
 1. Juan Esteban Pinilla Aguilera.
 2. Juan Camilo Adames Pardo.
