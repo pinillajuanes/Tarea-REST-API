@@ -1,7 +1,7 @@
 # REST-API-SOFTWARE-II
 Don Pedro's inventory, this inventory allows a basic CRUD using Java/Gradle through Rest.
 
-#Technologies
+## Technologies
 - Java with Gradle (Kotlin)
 - JDK: ver: 17
 - Lombok: ver: 1.18.24 (2022)
@@ -9,6 +9,6 @@ Don Pedro's inventory, this inventory allows a basic CRUD using Java/Gradle thro
 - springframework {starter-web, starter-data-jpa, starter-test}
 - mysql-connector-java: ver: 8.0.32
 
-#Group Members
+## Group Members
 1. Juan Esteban Pinilla Aguilera.
 2. Juan Camilo Adames Pardo.
