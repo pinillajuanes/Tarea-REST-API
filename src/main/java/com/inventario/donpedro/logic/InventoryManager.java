@@ -1,6 +1,6 @@
 package com.inventario.donpedro.logic;
-
-import com.inventario.donpedro.dto.ProductDTO;
+import java.util.List;
+import com.inventario.donpedro.controller.dto.ProductDTO;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
